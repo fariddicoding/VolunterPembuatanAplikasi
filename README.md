@@ -9,4 +9,4 @@ Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada
 
 Berikut daftar Volunter yang diterima:
 
-* Udin Tanh=jung, [oo.or.id](https://oo.or.id).
+* Udin Tanjung, [oo.or.id](https://oo.or.id).
